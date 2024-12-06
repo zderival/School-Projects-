@@ -1,3 +1,6 @@
+# This Python program is designed to calculate a student's final grade based on their performance in different categories: labs, assignments, and exams. 
+# This program demonstrates the coder's ability to apply basic programming concepts (loops, functions, conditionals, etc.) 
+# In this program, this is one out of three questions that the user was given to complete in his final exam. This is what was done in a 100 minute timespan. 
 labGrades = []
 for number in range(1,14):
     lab = int(input('Enter grade for lab '+ str(number)+': '))
