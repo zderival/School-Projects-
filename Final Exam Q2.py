@@ -1,3 +1,7 @@
+# The code defines a MovieTicketSystem class, which simulates a movie ticket booking system. 
+# It allows users to book adult and kid tickets for a specific movie, and calculates the total cost based on ticket types and prices.
+# The programmer understands basic object-oriented principles, such as using classes, constructors, and methods. 
+# This is question 2 of 3 in the final exam. 
 class MovieTicketSystem:
     title = ''
     seats = 0
